@@ -1,8 +1,4 @@
-Of course! Here is a comprehensive, detailed `README.md` file that explains your `TaskManager` Java code. This is perfect for documenting your project on GitHub or for your own learning.
 
----
-
-# **Task Manager - Console Application** 📝
 
 ## **1. Overview**
 
