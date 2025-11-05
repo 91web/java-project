@@ -2,7 +2,7 @@ package project1;
 
 import java.util.Scanner;
 
-public class Main {
+public class Calculator {
 
     private static final Scanner SCAN = new Scanner(System.in);
     private static int operationCount = 1;
