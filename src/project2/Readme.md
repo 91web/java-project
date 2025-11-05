@@ -187,12 +187,12 @@ public static void deleteTask() {
 ## **4. How to Run the Application**
 
 1.  **Prerequisites:** Ensure you have the Java Development Kit (JDK) installed on your system.
-2.  **Save the Code:** Copy the code into a file named `TaskManager.java`.
+2.  **Save the Code:** Copy the code into a file named `Main.java`.
 3.  **Compile:** Open your terminal or command prompt, navigate to the directory containing the file, and run:
     ```bash
-    javac TaskManager.java
+    javac Main.java
     ```
-    This will compile the code and generate a `TaskManager.class` file.
+    This will compile the code and generate a `Main.class` file.
 4.  **Run:** Execute the program with the following command:
     ```bash
     java TaskManager
