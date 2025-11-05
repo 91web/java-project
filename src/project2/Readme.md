@@ -195,6 +195,7 @@ public static void deleteTask() {
     This will compile the code and generate a `Main.class` file.
 4.  **Run:** Execute the program with the following command:
     ```bash
-    java TaskManager
+    java Main
     ```
 5.  **Use the App:** Follow the on-screen menu prompts to manage your tasks!
+![img.png](img.png)
